@@ -7,3 +7,5 @@
 ```
 !python train.py --img 416 --batch 16 --epochs 100 --data ./hard_hat_workers/data.yaml --cfg ./models/custom_yolov5s.yaml --weights '' --name _result --cache
 ```
+- 위 코드 실행 시 엄청난 자원과 시간을 잡아먹음
+- 컴퓨터 사양이 안좋을 경우 batch를 4, 8, 16, 32 순으로 내림, epochs이 높을 수록 시간이 많이 소요되지만 best.pt의 성능이 높아짐
