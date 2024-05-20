@@ -28,4 +28,7 @@
         - 기존 대화 시스템이 이전 대화 내용을 요약하는 부분이 미흡, 또는 망각
         - 대화 내용을 저장하고
         - LLaMA3의 summery 기능을 이용 요약
-        - 대화를 먼저 리드 하는 AI : 대화는 chatGPT가 나은듯 
+        - 대화를 먼저 리드 하는 AI : 대화는 chatGPT가 나은듯
+
+          
+- [NativeAPP - Sample 을 제공 ](https://github.com/Javacr/PyQt5-YOLOv5)
