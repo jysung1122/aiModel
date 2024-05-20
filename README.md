@@ -32,3 +32,5 @@
 
           
 - [NativeAPP - Sample 을 제공 ](https://github.com/Javacr/PyQt5-YOLOv5)
+- [Flask를 이용한 방법(Web App)](https://github.com/muhk01/Yolov5-on-Flask)
+
